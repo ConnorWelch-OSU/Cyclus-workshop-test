@@ -5,8 +5,16 @@
 layout: home
 ---
 
-{% assign date = '2026-06-11T17:06:36Z' %}
+## Welcome to the [Cyclus](fuelcycle.org) Workshop
 
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
+This live workshop activity is based in GitHub Codespaces. These pages give the 
+simple startup information that you might need while you engage in the 
+workshop. Please select your workshop below. 
+
+### Workshops hosted
+- [2026.08.16 Global 2026](./2026.08.16)
+
+- Global 2026 Conference Workshop
+- Sunday 1-5pm
+- Workshop website: [https://www.ans.org/meetings/global2026/calendar/event-2156/](https://www.ans.org/meetings/global2026/calendar/event-2156/)
 
