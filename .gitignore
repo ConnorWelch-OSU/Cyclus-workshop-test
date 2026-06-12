@@ -1,5 +1,3 @@
-# Cyclus outputs
-*.sqlite
-
-#Package file
-packages.xml
+_site
+.sass-cache
+.jekyll-metadata
