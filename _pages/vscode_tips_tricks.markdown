@@ -1,3 +1,8 @@
+---
+layout: default
+title:  "VSCode Tips and Tricks in Codespaces" 
+---
+
 # Tips and Tricks for working with VS Code in GitHub Codespaces
 This pages provides some tips and tricks for using VS Code while in a GitHub 
 Codespace. 
@@ -14,6 +19,7 @@ Codespace.
 * To create an XML input file, like is used in Cyclus, you can use the XML 
   schema for Cyclus to autocomplete and autogenerate parts of the input file: 
   * Make sure to have 
+
   ```
   <?xml-model href="../schema/cyclus.rng"
              type="application/xml"
