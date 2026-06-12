@@ -106,8 +106,8 @@ Finally, verify that `Cyclus` is installed and that your environment is
 configured correctly by running the following commands.
 
 {% highlight shell %}
-$ git config user.name
-$ which cyclus
-$ cyclus_unit_tests
+git config user.name
+which cyclus
+cyclus_unit_tests
 {% endhighlight %}
 

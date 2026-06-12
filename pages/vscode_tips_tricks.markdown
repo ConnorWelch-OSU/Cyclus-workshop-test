@@ -27,7 +27,7 @@ Codespace.
   <?xml-model href="../schema/cyclus.rng"
              type="application/xml"
              schematypens="http://relaxng.org/ns/structure/1.0"?>
-  {% end highlight}
+  {% endhighlight %}
 
   * Type in the top-level `<simulation> </simulation>` set of tags
   * When your cursor is between those top-level tags, you can type `<` and a 
